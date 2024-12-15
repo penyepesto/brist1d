@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Brist1D Project
 
 This repository contains scripts and models for the Brist1D project. It includes preprocessing steps, 
