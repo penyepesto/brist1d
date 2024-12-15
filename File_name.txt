@@ -1,0 +1,133 @@
+File_name, RMSE Value 
+submission.csv , 2.8100 
+submission_voting.csv, 2.7403 
+submission_corrected.csv, 6.7908
+submission-withoutboruta.csv , 2.6878
+submission-lgbm.csv , 2.7071
+suvmission-lgbm-2.csv , 27071
+submission-lgbm-finetune.csv, 2.6547 
+submission_ensemble_2.csv , 2.7724 
+submission_lstm_2.csv , 4.1313 
+submission_lstm.csv , 4.1752 
+submission_weighted_avg.csv , 2.6633
+submission_avg.csv, 2.6638 
+submissiin_final_nn.csv ,4.0364
+
+
+
+submission_lstm_LAST - Copy…
+Complete · 20h ago
+3.4195
+
+submission_lstm_LAST.csv
+Error · 20h ago
+
+submission_with_aggregated_…
+Complete · 2d ago
+2.6031
+
+submission_with_aggregated_…
+Complete · 2d ago
+2.5947
+
+submission_with_aggregated_…
+Complete · 2d ago
+2.5828
+
+lgbm-with-fourier-2.csv
+Complete · 3d ago
+2.6325
+
+lgbm-with-fourier.csv
+Complete · 4d ago
+2.6215
+
+submission_tcn.csv
+Complete · 4d ago
+3.3473
+
+
+submission_with_activity_7.csv
+Complete · 6d ago
+2.6111
+
+submission_with_activity_6.csv
+Complete · 6d ago
+2.6053
+
+submission_with_activity_5.csv
+Complete · 6d ago
+2.5832
+
+submission_with_activity_4.csv
+Complete · 7d ago
+2.6334
+
+submission_with_activity_3.csv
+Complete · 7d ago
+2.6253
+
+submission_with_activity_2.csv
+Complete · 7d ago
+2.5969
+
+submission_with_activity.csv
+Complete · 8d ago
+2.7762
+
+submission_with_activity.csv
+Complete · 8d ago
+2.6715
+
+submission_xgb_crossval.csv
+Complete · 8d ago
+2.8318
+
+submission_cat_crossval.csv
+Complete · 9d ago
+2.9111
+
+submission_lgbm_crossval.csv
+2.7834
+
+
+final_stacked_submission.csv
+Complete · 10d ago
+2.7426
+
+submission_final_nn.csv
+Complete · 11d ago
+4.0364
+
+submission_lstm_2.csv
+Complete · 11d ago
+4.1313
+
+submission_lstm.csv
+Complete · 11d ago
+4.1752
+
+submission_lstm.csv
+Complete · 12d ago
+3.5450
+
+submission_avg.csv
+Complete · 12d ago
+2.6638
+
+submission_weighted_avg.csv
+Complete · 12d ago
+2.6633
+
+submission_ensemble_2.csv
+Complete · 13d ago
+2.7724
+
+submission_ensemble.csv
+Error · 13d ago
+
+submission-lgbm-finetune.csv
+Complete · 14d ago
+2.6547
+
+
