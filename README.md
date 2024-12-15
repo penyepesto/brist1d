@@ -11,6 +11,9 @@ model training scripts, and output predictions for various machine learning appr
 - `train.csv`, `test.csv`: Datasets used for training and testing.
 - `catboost_info/`: Logs and metadata for CatBoost training.
 
+![20 Important Features](20imp-feature.png)
+
+
 ## Getting Started
 
 ### Prerequisites
