@@ -38,14 +38,3 @@ python models/brist1d-lgbm.py
 ## Outputs
 
 The `outputs/` directory contains sample predictions and submissions for benchmarking.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-For further assistance, please open an issue or contact the author.
-=======
-# brist1d
->>>>>>> e2eda2b32a6f69dbb4110b36b22a0104f54d87f0
